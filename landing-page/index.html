@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Company Landing Page</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <script async
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCGEZ1MAycbb4nnNifLzrxw2zxcULUSdJg&callback=initMap">
+    </script>
+</head>
+<body>
+  <!-- Header Section -->
+  <header class="header">
+    <nav class="navbar navbar-expand-lg">
+        <a class="navbar-brand" href="#">Company Logo</a>
+            <a class="nav-link dropdown-toggle" href="#" id="languageDropdown" role="button" data-toggle="dropdown">
+                Language
+            </a>
+            <div class="dropdown-menu">
+                <a class="dropdown-item" href="#" data-lang="en">English</a>
+                <a class="dropdown-item" href="#" data-lang="es">Spanish</a>
+            </div>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav">
+            <span class="navbar-toggler-icon">
+                <img src="/images/hamburger-menu-icon.svg" alt="">
+            </span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item"><a class="nav-link" href="#about">About Us</a></li>
+                <li class="nav-item"><a class="nav-link" href="#news">Latest News</a></li>
+                <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+<!-- Hero Section -->
+    <section class="hero text-left">
+        <h1 class="hero-title">Welcome to <br/> our company...</h1>
+        <p class="hero-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget est eu nibh volutpat finibus ut sit amet sem. Cras lorem nisi, imperdiet eu mattis eget, efficitur et est. Phasellus nec nisi aliquet, ullamcorper libero vitae, malesuada turpis. Sed pulvinar, justo tincidunt egestas mattis, dui ligula blandit massa, sit amet convallis metus elit eu urna. Aenean dictum imperdiet est a scelerisque. Proin sed libero in felis lobortis finibus id et diam. Integer leo orci, malesuada ut metus sit amet, efficitur fringilla arcu. Nunc eleifend mi eu est pulvinar lobortis eget auctor mi.</p>
+    </section>
+</header>
+
+<!-- About Us Section -->
+<section id="about" class="about container">
+    <h2 class="section-title">About Us</h2>
+    <p class="about-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget est eu nibh volutpat finibus ut sit amet sem. Cras lorem nisi, imperdiet eu mattis eget, efficitur et est. Phasellus nec nisi aliquet, ullamcorper libero vitae, malesuada turpis. Sed pulvinar, justo tincidunt egestas mattis, dui ligula blandit massa, sit amet convallis metus elit eu urna. Aenean dictum imperdiet est a scelerisque.</p>
+</section>
+
+<!-- News Section -->
+<section id="news" class="news container">
+    <h2 class="section-title">Latest News</h2>
+    <div class="swiper mySwiper">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide">
+            <div class="news-item">
+                <img src="images/img2.png" alt="news 1">
+                <p class="news-description">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget est eu nibh volutpat finibus ut sit amet sem. Cras lorem nisi, imperdiet eu mattis eget, efficitur et est. Phasellus nec nisi aliquet, ullamcorper libero vitae, malesuada turpis. Sed pulvinar, justo tincidunt egestas mattis, dui ligula blandit massa, sit amet convallis metus elit eu urna.
+                </p>
+                <a href="#" class="read-more">Read More &#8594;
+                </a>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="news-item">
+                <img src="images/img3.png" alt="news 2">
+                <p class="news-description">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget est eu nibh volutpat finibus ut sit amet sem. Cras lorem nisi, imperdiet eu mattis eget, efficitur et est. Phasellus nec nisi aliquet, ullamcorper libero vitae, malesuada turpis. Sed pulvinar, justo tincidunt egestas mattis, dui ligula blandit massa, sit amet convallis metus elit eu urna.
+                </p>
+                <a href="#" class="read-more">Read More &#8594;
+                </a>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="news-item">
+                <img src="images/img1.png" alt="news 3">
+                <p class="news-description">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget est eu nibh volutpat finibus ut sit amet sem. Cras lorem nisi, imperdiet eu mattis eget, efficitur et est. Phasellus nec nisi aliquet, ullamcorper libero vitae, malesuada turpis. Sed pulvinar, justo tincidunt egestas mattis, dui ligula blandit massa, sit amet convallis metus elit eu urna.
+                </p>
+                <a href="#" class="read-more">Read More &#8594;
+                </a>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="news-item">
+                <img src="images/img1.png" alt="news 4">
+                <p class="news-description">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget est eu nibh volutpat finibus ut sit amet sem. Cras lorem nisi, imperdiet eu mattis eget, efficitur et est. Phasellus nec nisi aliquet, ullamcorper libero vitae, malesuada turpis. Sed pulvinar, justo tincidunt egestas mattis, dui ligula blandit massa, sit amet convallis metus elit eu urna.
+                </p>
+                <a href="#" class="read-more">Read More &#8594;
+                </a>
+            </div>
+          </div>
+        </div>
+        <div class="swiper-pagination"></div>
+      </div>
+</section>
+
+<!-- Testimanial Section -->
+<section id="testimonial" class="testimonial container">
+    <h2 class="section-title">Testimonials</h2>
+    <div class="swiper mySwiper1">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide">
+            <div class="testi-item">
+                <p class="testi-description">
+                    <div class="quote-image">
+                        <!-- <img src="images/quote-right-Icon.svg" class="testi-image1"> -->
+                    </div>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget est eu nibh volutpat finibus ut sit amet sem. Cras lorem nisi, imperdiet eu mattis eget, efficitur et est. Phasellus nec nisi aliquet, ullamcorper libero vitae, malesuada turpis. Mauris vitae fel tortor fel tort tortor fel tortor.
+                    <div class="quote-image">
+                        <!-- <img src="images/quote-right-Icon.svg" class="testi-image2"> -->
+                    </div>
+                </p>
+                <div class="testi-author">
+                    <p class="author-name">- Doe</p>
+                    <p class="author-position">CEO, Inc.</p>
+                </div>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="testi-item">
+                <p class="testi-description">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget est eu nibh volutpat finibus ut sit amet sem. Cras lorem nisi, imperdiet eu mattis eget, efficitur et est. Phasellus nec nisi aliquet, ullamcorper libero vitae, malesuada turpis.
+                </p>
+                <div class="testi-author">
+                    <p class="author-name">- John Doe</p>
+                    <p class="author-position">Inc.</p>
+                </div>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="testi-item">
+                <p class="testi-description">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget est eu nibh volutpat finibus ut sit amet sem. Cras lorem nisi, imperdiet eu mattis eget, efficitur et est. Phasellus nec nisi aliquet, ullamcorper libero vitae, malesuada turpis.
+                </p>
+                <div class="testi-author">
+                    <p class="author-name">- Doe</p>
+                    <p class="author-position">Company Inc.</p>
+                </div>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="testi-item">
+                <p class="testi-description">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget est eu nibh volutpat finibus ut sit amet sem. Cras lorem nisi, imperdiet eu mattis eget, efficitur et est. Phasellus nec nisi aliquet, ullamcorper libero vitae, malesuada turpis.
+                </p>
+                <div class="testi-author">
+                    <p class="author-name">- John Doe</p>
+                    <p class="author-position">CEO, Inc.</p>
+                </div>
+            </div>
+          </div>
+        </div>
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+      </div>
+</section>
+
+<!-- Contact section -->
+<section id="contact" class="contact container">
+    <h2 class="section-title">Contact Us</h2>
+    <div id="map"></div>
+</section>
+
+<!-- Footer -->
+<footer>
+    <div class="footer-container">
+        <div class="company-info">
+            <div>
+                <h3>Company Logo</h3>
+            </div>
+            <div>
+                <p>Kea 69 Str. 15234, East Nile<br>Athens, Greece</p>
+                <p>+249 9123 456 78<br>+249 9123 456 78</p>
+            </div>
+        </div>
+
+        <div class="social-media">
+            <h4>Stay connected with</h4>
+            <div class="social-icons">
+                <a href="#"><img src="images/facebook.svg" alt="facebook"></a>
+                <a href="#"><img src="images/twitter.svg" alt="twitter"></a>
+                <a href="#"><img src="images/insta.svg" alt="insta"></a>
+                <a href="#"><img src="images/linkedin.svg" alt="linkedin"></a>
+                <a href="#"><img src="images/youtube.svg" alt="youtube"></a>
+            </div>
+            <div class="publish-info">
+                <p>Published: March 05, 2024</p>
+            </div>
+        </div>
+    </div>
+    <div class="copyright">
+        <p>© 2020 Reserved by Company Name Limited.</p>
+    </div>
+</footer>
+
+
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.0/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/script.js"></script>
+    <script async
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCGEZ1MAycbb4nnNifLzrxw2zxcULUSdJg&callback=initMap">
+    </script>
+
+    <script>
+        var swiper = new Swiper(".mySwiper", {
+        slidesPerView: 3,
+        spaceBetween: 30,
+        freeMode: true,
+        pagination: {
+         el: ".swiper-pagination",
+        clickable: true,
+        },
+        breakpoints: {
+      // when window width is >= 320px
+      576: {
+        slidesPerView: 2,
+      },
+      // when window width is >= 480px
+      768: {
+        slidesPerView: 3,
+        spaceBetween: 30,
+      },
+    },
+        });
+    </script>
+    <script>
+        var swiper = new Swiper(".mySwiper1", {
+          navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev",
+          },
+        });
+      </script>
+</body>
+</html>

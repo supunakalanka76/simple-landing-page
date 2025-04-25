@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1599" height="1066" viewBox="0 0 1599 1066">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_34" data-name="Rectangle 34" width="1599" height="1066" transform="translate(-0.105 -0.429)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.854" y1="0.146" x2="0.146" y2="0.854" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9fd2ff"/>
+      <stop offset="0.072" stop-color="#9fd2ff" stop-opacity="0.796"/>
+      <stop offset="0.149" stop-color="#9fd2ff" stop-opacity="0.612"/>
+      <stop offset="0.23" stop-color="#9fd2ff" stop-opacity="0.447"/>
+      <stop offset="0.315" stop-color="#9fd2ff" stop-opacity="0.31"/>
+      <stop offset="0.404" stop-color="#9fd2ff" stop-opacity="0.196"/>
+      <stop offset="0.498" stop-color="#9fd2ff" stop-opacity="0.11"/>
+      <stop offset="0.601" stop-color="#9fd2ff" stop-opacity="0.047"/>
+      <stop offset="0.719" stop-color="#9fd2ff" stop-opacity="0.012"/>
+      <stop offset="0.883" stop-color="#9fd2ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.146" y1="0.854" x2="0.854" y2="0.146" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-9" x1="0.854" y1="0.146" x2="0.146" y2="0.854" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-11" x1="2.649" y1="-2.238" x2="1.911" y2="-2.876" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-12" x1="4.728" y1="-0.626" x2="3.423" y2="-1.186" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-13" x1="5.052" y1="-1.639" x2="3.918" y2="-2.232" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-14" x1="7.289" y1="-3.531" x2="6.037" y2="-4.1" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-15" x1="2.872" y1="-2.755" x2="2.01" y2="-3.381" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-16" x1="3.469" y1="-3.584" x2="2.534" y2="-4.204" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-17" x1="2.821" y1="-1.651" x2="1.79" y2="-2.265" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Background_Shape" data-name="Background Shape" transform="translate(0.105 0.186)">
+    <g id="Group_176" data-name="Group 176" transform="translate(0 0.243)" clip-path="url(#clip-path)">
+      <g id="Group_172" data-name="Group 172" transform="translate(-378.848 -172.585)">
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="464.694" cy="464.694" r="464.694" transform="translate(684.959 2036.308) rotate(-135)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5" opacity="0.4" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <circle id="Ellipse_2" data-name="Ellipse 2" cx="223.228" cy="223.228" r="223.228" transform="translate(831.721 1101.944) rotate(-135)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5" opacity="0.4" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="128.731" cy="128.731" rx="128.731" ry="128.731" transform="translate(626.639 1125.195)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5" opacity="0.4" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <g id="Group_170" data-name="Group 170" transform="translate(942.382 801.887)">
+          <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="273.743" cy="273.743" rx="273.743" ry="273.743" transform="translate(53.387 53.387)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5" opacity="0.4" style="mix-blend-mode: hard-light;isolation: isolate"/>
+          <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="252.53" cy="252.53" rx="252.53" ry="252.53" transform="translate(74.601 74.601)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5" opacity="0.4" style="mix-blend-mode: hard-light;isolation: isolate"/>
+          <circle id="Ellipse_6" data-name="Ellipse 6" cx="231.316" cy="231.316" r="231.316" transform="translate(327.131 654.262) rotate(-135)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5" opacity="0.4" style="mix-blend-mode: hard-light;isolation: isolate"/>
+          <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="210.103" cy="210.103" rx="210.103" ry="210.103" transform="translate(117.028 117.028)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5" opacity="0.4" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        </g>
+        <g id="Group_171" data-name="Group 171" transform="translate(0)">
+          <ellipse id="Ellipse_8" data-name="Ellipse 8" cx="273.743" cy="273.743" rx="273.743" ry="273.743" transform="translate(53.387 53.387)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5" opacity="0.4" style="mix-blend-mode: hard-light;isolation: isolate"/>
+          <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="252.53" cy="252.53" rx="252.53" ry="252.53" transform="translate(74.601 74.601)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5" opacity="0.4" style="mix-blend-mode: hard-light;isolation: isolate"/>
+          <circle id="Ellipse_10" data-name="Ellipse 10" cx="231.316" cy="231.316" r="231.316" transform="translate(327.131 654.261) rotate(-135)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5" opacity="0.4" style="mix-blend-mode: hard-light;isolation: isolate"/>
+          <ellipse id="Ellipse_11" data-name="Ellipse 11" cx="210.103" cy="210.103" rx="210.103" ry="210.103" transform="translate(117.028 117.028)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5" opacity="0.4" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        </g>
+      </g>
+      <g id="Group_173" data-name="Group 173" transform="translate(-209.054 -2.791)">
+        <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="157.337" cy="157.337" rx="157.337" ry="157.337" transform="translate(1469.899 951.719)" opacity="0.2" fill="url(#linear-gradient)" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <ellipse id="Ellipse_13" data-name="Ellipse 13" cx="94.88" cy="94.88" rx="94.88" ry="94.88" transform="translate(248.939 831.471)" opacity="0.2" fill="url(#linear-gradient)" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <ellipse id="Ellipse_14" data-name="Ellipse 14" cx="157.337" cy="157.337" rx="157.337" ry="157.337" transform="translate(0)" opacity="0.2" fill="url(#linear-gradient)" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <circle id="Ellipse_15" data-name="Ellipse 15" cx="101.45" cy="101.45" r="101.45" transform="translate(661.927 759.93) rotate(-135)" opacity="0.2" fill="url(#linear-gradient-4)" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <circle id="Ellipse_16" data-name="Ellipse 16" cx="101.45" cy="101.45" r="101.45" transform="translate(1176.944 1058.248) rotate(-158.173)" opacity="0.2" fill="url(#linear-gradient-4)" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <circle id="Ellipse_17" data-name="Ellipse 17" cx="33.584" cy="33.584" r="33.584" transform="translate(667.723 508.865) rotate(-135)" opacity="0.2" fill="url(#linear-gradient-4)" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <ellipse id="Ellipse_18" data-name="Ellipse 18" cx="84.229" cy="84.229" rx="84.229" ry="84.229" transform="translate(649.53 853.677)" opacity="0.2" fill="url(#linear-gradient)" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <ellipse id="Ellipse_19" data-name="Ellipse 19" cx="80.961" cy="80.961" rx="80.961" ry="80.961" transform="translate(1309.026 823.361)" opacity="0.2" fill="url(#linear-gradient)" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <path id="Path_141" data-name="Path 141" d="M1449.043-96.206a13.591,13.591,0,0,0,13.591,13.589,13.589,13.589,0,0,0,13.589-13.589,13.591,13.591,0,0,0-13.589-13.591A13.592,13.592,0,0,0,1449.043-96.206Z" transform="translate(-716.995 185.158)" opacity="0.2" fill="url(#linear-gradient-9)" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <circle id="Ellipse_20" data-name="Ellipse 20" cx="325.621" cy="325.621" r="325.621" transform="translate(515.165 1669.835) rotate(-135)" opacity="0.2" fill="url(#linear-gradient-4)" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <path id="Path_142" data-name="Path 142" d="M1264.054,681.462l550.11-550.11c83.839-83.838,219.766-83.838,303.6,0h0c83.836,83.838,83.836,219.766,0,303.6L1871.263,681.462Z" transform="translate(-1027.083 386.9)" opacity="0.2" fill="url(#linear-gradient-11)" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <path id="Path_143" data-name="Path 143" d="M1462.608,232.03,1787.866-93.228a126.931,126.931,0,0,1,179.508,0h0a126.931,126.931,0,0,1,0,179.508L1462.608,599.162Z" transform="translate(-1274.239 161.837)" opacity="0.2" fill="url(#linear-gradient-12)" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <path id="Path_144" data-name="Path 144" d="M1486.458,403.02,1904.883-15.4a33.414,33.414,0,0,1,47.253,0h0a33.413,33.413,0,0,1,0,47.253L1486.458,499.661Z" transform="translate(-1282.449 280.907)" opacity="0.2" fill="url(#linear-gradient-13)" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <path id="Path_145" data-name="Path 145" d="M1580.7,340.431l185.314-185.314a49.33,49.33,0,0,1,69.765,0h0a49.332,49.332,0,0,1,0,69.767L1580.7,483.118Z" transform="translate(-1371.644 468.601)" opacity="0.2" fill="url(#linear-gradient-14)" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <path id="Path_146" data-name="Path 146" d="M1073.495,710.5,1705.576,78.421a121.584,121.584,0,0,1,171.945,0h0a121.584,121.584,0,0,1,0,171.944L1417.383,710.5Z" transform="translate(-353.358 357.859)" opacity="0.2" fill="url(#linear-gradient-15)" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <path id="Path_147" data-name="Path 147" d="M1185.849,671.535,1761.883,95.5a62.336,62.336,0,0,1,88.159,0h0a62.336,62.336,0,0,1,0,88.159L1362.17,671.535Z" transform="translate(-548.031 396.827)" opacity="0.2" fill="url(#linear-gradient-16)" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <path id="Path_148" data-name="Path 148" d="M1153.143,941.98,2160.918-65.8a22.714,22.714,0,0,1,32.118,0h0a22.709,22.709,0,0,1,0,32.118L1217.378,941.98Z" transform="translate(-809.7 227.425)" opacity="0.15" fill="url(#linear-gradient-17)" style="mix-blend-mode: hard-light;isolation: isolate"/>
+      </g>
+      <g id="Group_174" data-name="Group 174" transform="translate(35.44 50.975)">
+        <path id="Path_149" data-name="Path 149" d="M1549.288,127.157a4.445,4.445,0,1,0,4.444-4.445A4.443,4.443,0,0,0,1549.288,127.157Z" transform="translate(-1257.13 394.515)" fill="#4fd" opacity="0.35" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <path id="Path_150" data-name="Path 150" d="M1533.15,237.843a4.446,4.446,0,1,0,4.445-4.445A4.446,4.446,0,0,0,1533.15,237.843Z" transform="translate(-1206.594 519.775)" fill="#4fd" opacity="0.35" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <path id="Path_151" data-name="Path 151" d="M1277.485,348.515a4.445,4.445,0,1,0,4.445-4.445A4.443,4.443,0,0,0,1277.485,348.515Z" transform="translate(-405.935 645.019)" fill="#4fd" opacity="0.35" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <path id="Path_152" data-name="Path 152" d="M1460.523,18.941a4.445,4.445,0,1,0,4.444-4.445A4.445,4.445,0,0,0,1460.523,18.941Z" transform="translate(-979.148 272.051)" fill="#4fd" opacity="0.35" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <path id="Path_153" data-name="Path 153" d="M1660.983-115.483a4.445,4.445,0,0,0,4.445,4.445,4.443,4.443,0,0,0,4.444-4.445,4.445,4.445,0,0,0-4.444-4.445A4.446,4.446,0,0,0,1660.983-115.483Z" transform="translate(-1606.922 119.928)" fill="#4fd" opacity="0.35" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <path id="Path_154" data-name="Path 154" d="M1686.344,291.778a4.445,4.445,0,1,0,4.445-4.447A4.446,4.446,0,0,0,1686.344,291.778Z" transform="translate(-1686.344 580.809)" fill="#4fd" opacity="0.35" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <path id="Path_155" data-name="Path 155" d="M1330.054,336.285a4.445,4.445,0,1,0,4.444-4.445A4.443,4.443,0,0,0,1330.054,336.285Z" transform="translate(-570.563 631.18)" fill="#4fd" opacity="0.35" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <path id="Path_156" data-name="Path 156" d="M1549.288,250.306a4.445,4.445,0,1,0,4.444-4.445A4.443,4.443,0,0,0,1549.288,250.306Z" transform="translate(-1257.13 533.879)" fill="#4fd" opacity="0.35" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <path id="Path_157" data-name="Path 157" d="M1503.914,339.367a4.445,4.445,0,1,0,4.445-4.445A4.445,4.445,0,0,0,1503.914,339.367Z" transform="translate(-1115.034 634.667)" fill="#4fd" opacity="0.35" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <path id="Path_158" data-name="Path 158" d="M1299.558,108.4a4.444,4.444,0,1,0,4.445-4.445A4.443,4.443,0,0,0,1299.558,108.4Z" transform="translate(-475.06 373.284)" fill="#4fd" opacity="0.35" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <path id="Path_159" data-name="Path 159" d="M1143.178,252.912a4.446,4.446,0,1,0,4.447-4.444A4.446,4.446,0,0,0,1143.178,252.912Z" transform="translate(14.668 536.829)" fill="#4fd" opacity="0.35" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <path id="Path_160" data-name="Path 160" d="M1572.854-52.882a4.445,4.445,0,0,0,4.445,4.445,4.446,4.446,0,0,0,4.444-4.445,4.445,4.445,0,0,0-4.444-4.445A4.443,4.443,0,0,0,1572.854-52.882Z" transform="translate(-1330.931 190.771)" fill="#4fd" opacity="0.35" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <ellipse id="Ellipse_21" data-name="Ellipse 21" cx="4.445" cy="4.445" rx="4.445" ry="4.445" transform="translate(569.049 602.181)" fill="#4fd" opacity="0.35" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <ellipse id="Ellipse_22" data-name="Ellipse 22" cx="4.445" cy="4.445" rx="4.445" ry="4.445" transform="translate(835.609 111.49)" fill="#4fd" opacity="0.35" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <path id="Path_161" data-name="Path 161" d="M1022.418,206.534a4.444,4.444,0,1,0,4.444-4.445A4.444,4.444,0,0,0,1022.418,206.534Z" transform="translate(392.85 484.344)" fill="#4fd" opacity="0.35" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <path id="Path_162" data-name="Path 162" d="M1077.694-10.8a4.445,4.445,0,0,0,4.445,4.447,4.447,4.447,0,0,0,4.445-4.447,4.446,4.446,0,0,0-4.445-4.445A4.445,4.445,0,0,0,1077.694-10.8Z" transform="translate(219.744 238.4)" fill="#4fd" opacity="0.35" style="mix-blend-mode: hard-light;isolation: isolate"/>
+      </g>
+      <g id="Group_175" data-name="Group 175" transform="translate(-255.896 1.812)">
+        <line id="Line_1" data-name="Line 1" x1="544.339" y2="544.339" transform="translate(697.363)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5" opacity="0.4" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <line id="Line_2" data-name="Line 2" x1="544.339" y2="544.339" transform="translate(824.066 791.59)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5" opacity="0.4" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <line id="Line_3" data-name="Line 3" x1="544.339" y2="544.339" transform="translate(919.033 649.579)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5" opacity="0.4" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <line id="Line_4" data-name="Line 4" x1="544.339" y2="544.339" transform="translate(1316.603 826.869)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5" opacity="0.4" style="mix-blend-mode: hard-light;isolation: isolate"/>
+        <line id="Line_5" data-name="Line 5" x1="544.339" y2="544.339" transform="translate(0 301.91)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5" opacity="0.4" style="mix-blend-mode: hard-light;isolation: isolate"/>
+      </g>
+    </g>
+  </g>
+</svg>
